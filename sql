@@ -1,4 +1,4 @@
---find the total sales ($$) and number of orders per month in the database.
+--find the total sales ($$) and number of orders per month in the database (northwind).
 -- don't worry about months with no sales.
 
 
